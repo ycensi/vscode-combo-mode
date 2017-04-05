@@ -12,7 +12,7 @@ With the VS Code package manager:
 
 ## Usage
 
-Open the Command Pallete  <kbd>⇧</kbd>-<kbd>⌘</kbd>-<kbd>P<kbd> (Windows, Linux <kbd>Ctrl</kbd>-<kbd>Shift</kbd>-<kbd>P</kbd>) and enable the Combo Mode:
+Open the Command Pallete  <kbd>⇧</kbd>-<kbd>⌘</kbd>-<kbd>P</kbd> (Windows, Linux <kbd>Ctrl</kbd>-<kbd>Shift</kbd>-<kbd>P</kbd>) and enable the Combo Mode:
 
 ![Enable Combo Mode](images/enable_combo_mode.png) 
 
